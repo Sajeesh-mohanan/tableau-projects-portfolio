@@ -2,12 +2,14 @@
 
 This Tableau project explores and visualizes a real-world bike-sharing dataset, helping stakeholders make data-driven decisions in urban mobility and customer behavior. The dashboards aim to offer clear insights into **trip durations**, **popular stations**, **rider demographics**, and **time-based usage patterns** of bike-sharing services in New York City.
 
-▶️ **View Dashboard on Tableau Public:**  
+▶️ **To view full interactive Dashboard on Tableau Public:**  
 [SnapBikes Trip Data Analysis](https://public.tableau.com/app/profile/sajeesh.k.mohanan/viz/SnapBikesTripDataAnalysis/SnapBikestripDataAnalysis?publish=yes)
 
 ---
 
 ### 🔹 Dashboard 1: Trip Start & End Time Distribution + Popular Start Stations  
+
+![alt text](<Analysing the distribution of the number of trips starts and ends for each hour of the day .png>)
 **Description:**  
 This dashboard provides insights into **bike trip patterns in New York City** based on trip start and end times, along with the **most frequently used start stations**. It helps city planners and bike-sharing companies understand **peak usage hours** and **high-demand locations**.
 
@@ -24,6 +26,8 @@ This dashboard provides insights into **bike trip patterns in New York City** ba
 ---
 
 ### 🔹 Dashboard 2: Popular Start and End Stations  
+
+![alt text](<Distribution of common end stations on popular start stations dashboard.png>)
 **Description:**  
 This dashboard focuses on identifying the most **frequently used start and end stations** across the city.
 
@@ -39,6 +43,7 @@ This dashboard focuses on identifying the most **frequently used start and end s
 ---
 
 ### 🔹 Dashboard 3: Rider Demographics by Gender and Age  
+![alt text](<Records based on gender.png>)
 **Description:**  
 This dashboard explores how rider behavior differs by **gender and age group**.
 
