@@ -16,18 +16,18 @@ This series of interactive dashboards offers a multi-dimensional view of Netflix
 ## 📊 Dashboard Highlights & Insights
 
 ### 1. **Content Type & Release Year Overview**
-![alt text](dashboard/Content%20Type%20&%20Release%20Year%20Overview.png)
+![alt text](<Dashboard/Content%20Type%20&%20Release%20Year%20Overview.png>)
 - **Movies dominate** Netflix's catalog: 6,131 movies (69.62%) vs 2,676 TV shows.
 - Most content was released between **2017-2020**, with **2018** and **2017** being the peak years.
 
 ### 2. **Annual & Monthly Content Addition Trends**
-![alt text](dashboard/Annual%20&%20Monthly%20Content%20Addition%20Trends.png)
+![alt text](<Dashboard/Annual%20&%20Monthly%20Content%20Addition%20Trends.png>)
 - Steep rise in content additions from **2014**, peaking in **2018-2019**.
 - Drop in additions noticed in **2021**.
 - Content additions typically peak in **March, July, and October**.
 
 ### 3. **Geographical Distribution & Country-wise Genre Trends**
-![alt text](dashboard/Geographical%20Distribution%20&%20Country-wise%20Genre%20Trends.png)
+![alt text](<Dashboard/Geographical%20Distribution%20&%20Country-wise%20Genre%20Trends.png>)
 - **Top contributing countries**: United States (3,690), India (860), United Kingdom (445).
 - Genre highlights:
   - 🇺🇸 USA: Dramas, Documentaries  
@@ -37,24 +37,24 @@ This series of interactive dashboards offers a multi-dimensional view of Netflix
   - 🇬🇧 UK: British TV Shows
 
 ### 4. **Content Ratings & Genre Breakdown**
-![alt text](dashboard/Content%20Ratings%20&%20Genre%20Breakdown.png)
+![alt text](<Dashboard/Content%20Ratings%20&%20Genre%20Breakdown.png>)
 - Major ratings: **TV-MA (36.44%)**, **TV-14 (24.55%)**, and **R (9.08%)**.
 - **Dramas dominate** across TV-MA and TV-14.
 - Movies heavily populate mature and teen-rated content.
 
 ### 5. **Content Addition Delay & Release Lag Analysis**
-![alt text](dashboard/Content%20Addition%20Delay%20&%20Release%20Lag%20Analysis.png)
+![alt text](<Dashboard/Content%20Addition%20Delay%20&%20Release%20Lag%20Analysis.png>)
 - **33.15% of content** is added the same year it's released.
 - **17.40%** of content added after **10+ years**, reflecting classic content curation.
 - Avg delay: **6.66 years** for movies, **1.94 years** for TV shows.
 
 ### 6. **Content Duration**
-![alt text](dashboard/Content%20Duration.png)
+![alt text](<Dashboard/Content%20Duration.png>)
 - **Movies average ~99.58 minutes**, peaking around **94 minutes**.
 - TV Shows: **1-season series dominate** (1,793 titles), indicating focus on limited series.
 
 ### 7. **Genre Trends Over Time**
-![alt text](dashboard/Genre%20Trends%20Over%20Time.png)
+![alt text](<Dashboard/Genre%20Trends%20Over%20Time.png>)
 - Top genres: **Dramas**, **Comedies**, and **International TV Shows**.
 - Surge in additions from **2014–2020**, decline in **2021**.
 - International TV Shows saw explosive growth post-2016.
