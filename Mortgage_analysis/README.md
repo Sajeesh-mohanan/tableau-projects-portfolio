@@ -12,7 +12,6 @@ To perform an in-depth analysis of mortgage loan data and derive actionable insi
 - Improve **loan approval strategies**.
 - Understand **demographic and geographic trends** related to loan performance.
 
-![alt text](geographic_analysis.png)
 ---
 
 ## 📊 Key Insights
@@ -38,9 +37,13 @@ To perform an in-depth analysis of mortgage loan data and derive actionable insi
 | Dashboard | Description |
 |----------|-------------|
 | **Loan Status Distribution** | Bar chart showing the number of borrowers in Fully Paid, Defaulter, and Current status. |
+![alt text](loan_status_distribution.png)
 | **DTI vs Loan Performance** | Scatter or bar charts comparing DTI and repayment success. |
+![alt text](<loan_type_defaulters vs DTI.png>)
 | **Geographic Distribution** | Map showing applicant density and defaulters by state/region. |
+![alt text](geographic_analysis.png)
 | **Loan Type Analysis** | Breakdown of default rates by loan type. |
+![alt text](<Loan Type Analysis.png>)
 
 ---
 
