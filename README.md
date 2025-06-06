@@ -9,3 +9,7 @@ This Tableau project analyzes mortgage loan data to identify trends and risk pat
 
 This Tableau project explores and visualizes a real-world bike-sharing dataset, helping stakeholders make data-driven decisions in urban mobility and customer behavior. The dashboards aim to offer clear insights into **trip durations**, **popular stations**, **rider demographics**, and **time-based usage patterns** of bike-sharing services in New York City.
 
+# 🎬 Netflix Unplugged: What the Data Reveals
+
+Welcome to a deep-dive data analysis project exploring Netflix’s content universe using Tableau. This project analyzes patterns across genres, countries, content types, and more to understand what powers the world's largest streaming service.
+
