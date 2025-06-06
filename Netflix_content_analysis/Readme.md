@@ -67,7 +67,7 @@ This series of interactive dashboards offers a multi-dimensional view of Netflix
 
 
 ### 9. **Directors & Detailed Genre View**
-![alt text](dashboard/Directors &Detailed Genre View.png)
+![alt text](<dashboard/Directors&Detailed Genre View.png>)
 - Frequent directors: **Rajiv Chilaka**, **Raajav Ramesh**, with diversity from **Spike Lee** & **Martin Scorsese**.
 - **Movies**: Dramas, Comedies, Action & Adventure  
 - **TV Shows**: International TV, Dramas, British TV, Anime Series
