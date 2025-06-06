@@ -60,14 +60,14 @@ This series of interactive dashboards offers a multi-dimensional view of Netflix
 - International TV Shows saw explosive growth post-2016.
 
 ### 8. **Content Ratings vs Duration and Seasonality**
-![alt text](<dashboard/Content%20Ratings%20vs%20Duration%20and%20Seasonality.png>)
+![alt text](<Dashboard/Content%20Ratings%20vs%20Duration%20and%20Seasonality.png>)
   - TV-MA and TV-14 are not just frequent but also skew towards shorter season counts.
   - Duration increases with rating maturity: e.g., NC-17 titles average 125 mins, while TV-Y content is ~48 mins.
   - 1-season format remains dominant across most ratings.
 
 
 ### 9. **Directors & Detailed Genre View**
-![alt text](<dashboard/Directors&Detailed Genre View.png>)
+![alt text](<Dashboard/Directors&Detailed Genre View.png>)
 - Frequent directors: **Rajiv Chilaka**, **Raajav Ramesh**, with diversity from **Spike Lee** & **Martin Scorsese**.
 - **Movies**: Dramas, Comedies, Action & Adventure  
 - **TV Shows**: International TV, Dramas, British TV, Anime Series
