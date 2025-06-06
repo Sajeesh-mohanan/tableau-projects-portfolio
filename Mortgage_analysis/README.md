@@ -12,6 +12,7 @@ To perform an in-depth analysis of mortgage loan data and derive actionable insi
 - Improve **loan approval strategies**.
 - Understand **demographic and geographic trends** related to loan performance.
 
+![alt text](geographic_analysis.png)
 ---
 
 ## 📊 Key Insights
