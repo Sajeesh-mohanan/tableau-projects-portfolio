@@ -61,7 +61,7 @@ To perform an in-depth analysis of mortgage loan data and derive actionable insi
 
 ## 🔗 Tableau Public Link
 
-> [📎 To View Full interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sajeesh.k.mohanan/viz/Mortgage_analysis/Story1?publish=yes)
+> [📎 To View Full interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sajeesh.k.mohanan4745/viz/Mortgage_analysis_17489719260470/MortgageAnalysis)
 
 ---
 
