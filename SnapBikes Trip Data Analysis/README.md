@@ -3,7 +3,7 @@
 This Tableau project explores and visualizes a real-world bike-sharing dataset, helping stakeholders make data-driven decisions in urban mobility and customer behavior. The dashboards aim to offer clear insights into **trip durations**, **popular stations**, **rider demographics**, and **time-based usage patterns** of bike-sharing services in New York City.
 
 ▶️ **To view full interactive Dashboard on Tableau Public:**  
-[SnapBikes Trip Data Analysis](https://public.tableau.com/app/profile/sajeesh.k.mohanan/viz/SnapBikesTripDataAnalysis/SnapBikestripDataAnalysis?publish=yes)
+[SnapBikes Trip Data Analysis](https://public.tableau.com/app/profile/sajeesh.k.mohanan4745/viz/SnapBikesTripDataAnalysis_17489717660970/SnapBikestripDataAnalysis)
 
 ---
 
